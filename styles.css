@@ -1,0 +1,101 @@
+body {
+    background-color: rgb(255, 221, 157);
+    border-bottom: 0px;
+}
+p{
+    padding-top: 00px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h1 {
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    font-family: Oswald;
+}
+
+.card-image {
+    height: 200px;
+    width: 300px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+#footer {
+    padding-top: 30px;
+    text-align: center;
+    background-color: rgb(255, 221, 157);
+}
+
+.icons {
+
+    padding-left: 10px;
+    padding-right: 10px;
+    color: rgb(75, 75, 75);
+}
+
+.icons:hover {
+    font-size: 25px;
+    color:black;
+}
+
+.myname {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Lobster;
+    text-shadow: 5px;
+}
+
+.mycard {
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+
+}
+
+.mycard1 {
+    padding-top: 0px;
+}
+
+.cardbody {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+
+.photo {
+    padding-left: 40px;
+    
+    padding-top: 60px;
+}
+
+.imagebus {
+    border-radius: 20px;
+   
+}
+
+.tag1 {
+    padding-left: 40px;
+    padding-top: 80px;
+    padding-bottom: 0px;
+}
+
+.tag2 {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.tag3 {
+    padding-left: 400px;
+    ;
+    padding-top: 30px;
+}
+
+
+#footer{
+    padding-top: 50px;
+}
+.main-page{
+    background-color: rgb(255, 221, 159);
+}
