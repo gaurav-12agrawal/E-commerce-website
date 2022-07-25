@@ -62,6 +62,7 @@ h1 {
     margin-left: 10px;
     margin-right: 10px;
     border-radius: 20px;
+    margin-top : 20px;
 }
 
 .photo {
@@ -69,11 +70,19 @@ h1 {
     
     padding-top: 60px;
 }
+.navbar{
+width: 100%;
+}
 
 .imagebus {
     border-radius: 20px;
    
 }
+ .contact-page{
+ padding-left: 30px;
+
+
+ }
 
 .tag1 {
     padding-left: 40px;
