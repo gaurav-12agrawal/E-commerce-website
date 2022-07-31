@@ -152,3 +152,16 @@ width: 100%;
 .common{
     text-align: center;
 }
+.dogi-images {
+    width: 100%;
+    height: 700px;
+}
+
+@media (max-width:490px) {
+    .dogi-images {
+        width: 412px;
+        height: 600px;
+        object-fit: cover;
+       
+    }
+}
