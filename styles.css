@@ -12,6 +12,9 @@ p{
     margin-top: 0px;
     margin-bottom: 0px;
 }
+.btn{
+    margin-top: 10px;
+}
 h1 {
     padding-left: 70px;
     padding-top: 50px;
@@ -23,9 +26,12 @@ h1 {
 }
 .card-image {
     height: 200px;
-    width: 300px;
+    width: 100%;
     align-items: center;
     border-radius: 10px;
+    justify-items: center;
+    text-align: center;
+
 }
 
 #footer {
@@ -142,12 +148,7 @@ width: 100%;
     padding: 0;
     border: 0;
 }
-@media (max-width: 550px) {
-    .card-image {
-        height: 200px;
-        width: 250px;
-        align-items: center;
-        border-radius: 10px;
-    }
-    
+
+.common{
+    text-align: center;
 }
