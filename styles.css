@@ -23,7 +23,7 @@ h1 {
 }
 .card-image {
     height: 200px;
-    width: 80%;
+    width: 300px;
     align-items: center;
     border-radius: 10px;
 }
@@ -141,4 +141,13 @@ width: 100%;
     margin: 0;
     padding: 0;
     border: 0;
+}
+@media (max-width: 550px) {
+    .card-image {
+        height: 200px;
+        width: 250px;
+        align-items: center;
+        border-radius: 10px;
+    }
+    
 }
